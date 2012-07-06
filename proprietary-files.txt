@@ -33,6 +33,7 @@ bin/sec-ril
 bin/qmiproxy
 bin/qmuxd
 bin/rmt_storage
+bin/rild
 lib/libsecril-client.so
 lib/libqmi.so
 lib/libqdi.so
